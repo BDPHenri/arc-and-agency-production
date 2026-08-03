@@ -11,6 +11,26 @@
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://arcandagency.com/pt" />
 </url>
 <url>
+<loc>https://arcandagency.com/advisory</loc>
+<xhtml:link rel="alternate" hreflang="en-US" href="https://arcandagency.com/advisory" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://arcandagency.com/pt/advisoria" />
+</url>
+<url>
+<loc>https://arcandagency.com/pt/advisoria</loc>
+<xhtml:link rel="alternate" hreflang="en-US" href="https://arcandagency.com/advisory" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://arcandagency.com/pt/advisoria" />
+</url>
+<url>
+<loc>https://arcandagency.com/apply</loc>
+<xhtml:link rel="alternate" hreflang="en-US" href="https://arcandagency.com/apply" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://arcandagency.com/pt/candidatura" />
+</url>
+<url>
+<loc>https://arcandagency.com/pt/candidatura</loc>
+<xhtml:link rel="alternate" hreflang="en-US" href="https://arcandagency.com/apply" />
+<xhtml:link rel="alternate" hreflang="pt-BR" href="https://arcandagency.com/pt/candidatura" />
+</url>
+<url>
 <loc>https://arcandagency.com/lead-within</loc>
 <xhtml:link rel="alternate" hreflang="en-US" href="https://arcandagency.com/lead-within" />
 <xhtml:link rel="alternate" hreflang="pt-BR" href="https://arcandagency.com/pt/crescer-por-dentro" />
