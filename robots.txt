@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://arcandagency.com
+Sitemap: https://arcandagency.com/sitemap.xml
